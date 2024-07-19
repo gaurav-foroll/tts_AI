@@ -1,0 +1,5 @@
+{
+    "key1": "your_speech_key",
+    "gemini": "your_api_key",
+    "region": "your_speech_region"
+}
